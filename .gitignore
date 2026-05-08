@@ -1,0 +1,5 @@
+venv/
+rag-env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
